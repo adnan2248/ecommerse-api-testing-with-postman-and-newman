@@ -132,6 +132,9 @@ E-Commerce-API-Testing/
 ├── reports/
 │   └── ecommerce-api-report.html
 │
+├── bug-reports/
+│   └── E-Commerce-API-Bug-Reports.md
+│
 └── README.md
 ```
 
